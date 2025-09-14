@@ -1,0 +1,4 @@
+torch
+gym==0.26.2
+pygame==2.5.2
+numpy
